@@ -1,11 +1,41 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
+</html><!DOCTYPE html>
+<html lang="pt-br">  <head>
     <meta charset="UTF-8">
-    <title>Imagem do Real Madrid</title>
+    <meta name="author" content="Seu Nome">
+    <meta name="description" content="Exemplo de página com metadados, imagem e tabela">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página Web</title>
 
-<body>
-    <img src=https://logodetimes.com/times/real-madrid/logo-real-madrid-4096.png
-         alt="Símbolo do Real Madrid" width="500" height="400"/>
+</head>
+<body> <header>
+<h1>Bem vindo.
+</header>
+    
+    <section>
+      <img src="https://logodetimes.com/times/real-madrid/logo-real-madrid-4096.png" alt="Símbolo do Real Madrid" width="500" height="400"/>
+    </section>
+    
+    <section>
+<h2>Tabela de Exemplos</h2>
+<table border="1"> <tr>
+
+<th>Nome</th>
+<th>Idade</th>
+<th>Cidade</th> </tr> <tr>
+
+<td>Alisson
+<td>21</td>
+<td>Ceara</td> </tr> <tr>
+
+<td>Pedro</td>
+<td>20</td>
+<td>Rio de Janeiro</td> </tr> <tr>
+
+<td>Mara
+<td>22</td>
+<td>Bahia </tr>
+
+</table>
+</section>
 </body>
 </html>
