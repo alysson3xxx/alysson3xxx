@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Exercício sobre aplicativos que ajudam no aprendizado de programação com foco na plataforma Code.org, que oferece recursos educativos gratuitos e acessíveis para iniciantes e educadores.">
+  <meta name="author" content="Alysson Saraiva Barros">
+  <meta name="keywords" content="aplicativo, aprendizado, programação, Code.org">
+  <title>Lista 1 - Questão 2</title>
+  <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #0073e6;
+        }
+
+        p {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            line-height: 1.6;
+            font-size: 1.1em;
+        }
+
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+</style>
+</head>
+<body>
+<h1>Lista 1 – Questão 2</h1>
+<p>
+  O <a href="https://code.org/" target="_blank">Code.org</a> é uma plataforma educacional que busca ensinar programação de forma divertida e acessível. Através de jogos e desafios, a plataforma ajuda iniciantes a aprenderem conceitos fundamentais de computação e lógica de programação. O Code.org oferece cursos gratuitos para alunos de todas as idades, além de ser uma excelente ferramenta para educadores que desejam ensinar programação nas escolas de maneira interativa e engajante.
+</p>
+</body>
+</html>
