@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Lista de países com suas bandeiras e links para a Wikipedia.">
+  <meta name="keywords" content="países, continentes, bandeiras, Wikipedia">
+  <title>Lista 1 – Questão 5</title>
+  <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+
+        h1 {
+            text-align: center;
+            color: #0073e6;
+        }
+
+        h2 {
+            color: #0073e6;
+        }
+
+        .continent {
+            margin-bottom: 30px;
+        }
+
+        .country {
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+
+        .country a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+
+        .country a:hover {
+            text-decoration: underline;
+        }
+
+        .flag {
+            width: 50px;
+            height: 30px;
+            margin-left: 10px;
+        }
+
+        .flag-link {
+            margin-right: 10px;
+        }
+
+        .continent ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .continent li {
+            display: flex;
+            align-items: center;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #0073e6;
+            color: white;
+            margin-top: 40px;
+        }
+</style>
+</head>
+
+<body>
+  <h1>Lista 1 – Questão 5</h1>
+
+  <div class="continent">
+        <h2>América</h2>
+        <ul>
+            <li class="country">
+  <a href="https://pt.wikipedia.org/wiki/Argentina" target="_blank">Argentina</a>
+  <a href="https://pt.wikipedia.org/wiki/Arquivo:Bandeira_da_Argentina.svg" target="_blank" class="flag-link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1920px-Flag_of_Argentina.svg.png" alt="Bandeira da Argentina" class="flag">
+                </a>
+            </li>
+  <li class="country">
+  <a href="https://pt.wikipedia.org/wiki/Brasil" target="_blank">Brasil</a>
+  <a href="https://pt.wikipedia.org/wiki/Arquivo:Bandeira_do_Brasil.svg" target="_blank" class="flag-link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1920px-Flag_of_Brazil.svg.png" alt="Bandeira do Brasil" class="flag">
+            </a>
+            </li>
+  <li class="country">
+  <a href="https://pt.wikipedia.org/wiki/Chile" target="_blank">Chile</a>
+  <a href="https://pt.wikipedia.org/wiki/Arquivo:Bandeira_do_Chile.svg" target="_blank" class="flag-link">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1920px-Flag_of_Chile.svg.png" alt="Bandeira do Chile" class="flag">
+  </a>
+  </li>
+  </ul>
+  </div>
+
+  <div class="continent">
+        <
