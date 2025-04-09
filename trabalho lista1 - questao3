@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Diferença entre linguagens de programação Server Side e Client Side com exemplos.">
+    <meta name="author" content="Seu Nome Completo">
+    <meta name="keywords" content="programação, server side, client side, exemplos, HTML5, SAVA">
+    <title>Questão 3</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+
+        section {
+            padding: 20px;
+            margin: 15px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #0073e6;
+            font-size: 1.8em;
+            margin-top: 0;
+        }
+
+        p {
+            line-height: 1.6;
+            font-size: 1.1em;
+        }
+
+        ul {
+            list-style-type: square;
+            margin: 10px 0;
+        }
+
+        li {
+            font-size: 1.1em;
+            margin: 5px 0;
+        }
+
+        footer {
+            background-color: #0073e6;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Questão 3</h1>
+    </header>
+
+    <section>
+        <h2>Diferença entre Linguagens Server Side e Client Side</h2>
+        <p>As linguagens de programação Server Side e Client Side desempenham papéis distintos no desenvolvimento de sites e aplicações web. Ambas são essenciais para a criação de experiências interativas e dinâmicas, mas suas funções e onde são executadas são bastante diferentes.</p>
+        
+        <h3>Linguagem Server Side</h3>
+        <p>A programação Server Side refere-se ao código executado no servidor, ou seja, antes de ser enviado ao navegador do usuário. O servidor processa as solicitações do cliente (usuário) e envia de volta os resultados. Esse tipo de linguagem é utilizado para tarefas que exigem maior segurança ou interação com banco de dados.</p>
+        <ul>
+ <li><strong>Exemplo:</strong> PHP, Python, Ruby, Node.js</li>
+ <li><strong>Vantagens:</strong> maior segurança, controle sobre os dados, processamento de lógica do servidor.</li>
+ <li><strong>Desvantagens:</strong> maior carga no servidor, maior latência (tempo de resposta pode ser maior).</li>
+        </ul>
+
+ <h3>Linguagem Client Side</h3>
+        <p>Já a programação Client Side é executada diretamente no navegador do usuário. O código é enviado pelo servidor e interpretado no navegador do cliente, sendo utilizado para criar interfaces interativas e dinâmicas sem a necessidade de um novo carregamento da página.</p>
+        <ul>
+  <li><strong>Exemplo:</strong> JavaScript, HTML, CSS</li>
+  <li><strong>Vantagens:</strong> interação rápida, menos carga no servidor, melhor performance para o usuário.</li>
+  <li><strong>Desvantagens:</strong> menor controle sobre a segurança, maior dependência do navegador do usuário.</li>
+        </ul>
+
+        <p>Em resumo, a escolha entre usar Server Side ou Client Side depende das necessidades do projeto e das funcionalidades desejadas. Em muitos casos, é comum a utilização de ambas as tecnologias para proporcionar uma experiência completa ao usuário.</p>
+  </section>
+
+  <footer>
+      <p>Desenvolvido por: Alysson Saraiva Barros</p>
+  </footer>
+</body>
+
+</html>
